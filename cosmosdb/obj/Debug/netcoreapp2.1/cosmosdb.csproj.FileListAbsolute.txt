@@ -1,0 +1,14 @@
+/Users/SublimeDev/Projects/ms-learn/cosmosdb/bin/Debug/netcoreapp2.1/cosmosdb.deps.json
+/Users/SublimeDev/Projects/ms-learn/cosmosdb/bin/Debug/netcoreapp2.1/cosmosdb.runtimeconfig.json
+/Users/SublimeDev/Projects/ms-learn/cosmosdb/bin/Debug/netcoreapp2.1/cosmosdb.runtimeconfig.dev.json
+/Users/SublimeDev/Projects/ms-learn/cosmosdb/bin/Debug/netcoreapp2.1/cosmosdb.dll
+/Users/SublimeDev/Projects/ms-learn/cosmosdb/bin/Debug/netcoreapp2.1/cosmosdb.pdb
+/Users/SublimeDev/Projects/ms-learn/cosmosdb/obj/Debug/netcoreapp2.1/cosmosdb.csprojAssemblyReference.cache
+/Users/SublimeDev/Projects/ms-learn/cosmosdb/obj/Debug/netcoreapp2.1/cosmosdb.csproj.CoreCompileInputs.cache
+/Users/SublimeDev/Projects/ms-learn/cosmosdb/obj/Debug/netcoreapp2.1/cosmosdb.AssemblyInfoInputs.cache
+/Users/SublimeDev/Projects/ms-learn/cosmosdb/obj/Debug/netcoreapp2.1/cosmosdb.AssemblyInfo.cs
+/Users/SublimeDev/Projects/ms-learn/cosmosdb/obj/Debug/netcoreapp2.1/cosmosdb.dll
+/Users/SublimeDev/Projects/ms-learn/cosmosdb/obj/Debug/netcoreapp2.1/cosmosdb.pdb
+/Users/SublimeDev/Projects/ms-learn/cosmosdb/bin/Debug/netcoreapp2.1/Microsoft.Azure.Documents.ServiceInterop.dll
+/Users/SublimeDev/Projects/ms-learn/cosmosdb/bin/Debug/netcoreapp2.1/DocumentDB.Spatial.Sql.dll
+/Users/SublimeDev/Projects/ms-learn/cosmosdb/bin/Debug/netcoreapp2.1/cosmosdb.dll.config
